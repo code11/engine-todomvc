@@ -1,4 +1,4 @@
-# Code 11 Todo app engine tutorial app
+# Code 11 Todo mvc app
 
 This is the repository with all the code for [this](https://code11.github.io/engine/docs/tutorials/react/setup) tutorial.
 
