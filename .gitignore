@@ -1,4 +1,3 @@
-
 .scannerwork
 .settings
 .externalToolBuilders/
@@ -21,11 +20,10 @@ bower_components/**
 *.log
 .vscode
 dist
-.htmlhintrc
+\.htmlhintrc
 
 *.code-workspace
 .history
 /.gtm/
 .infra
 
-.app-structure.json
