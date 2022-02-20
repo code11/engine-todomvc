@@ -7,7 +7,7 @@ import { debug } from "@c11/engine.patterns"
 import "./global";
 
 const app = engine({
-  // onEvents: sendToDashboard(),
+  onEvents: sendToDashboard(),
   state: {
     filter: TodoFilters.all,
     clearRequest: null,

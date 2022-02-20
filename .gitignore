@@ -27,3 +27,4 @@ dist
 /.gtm/
 .infra
 
+.app-structure.json
